@@ -50,4 +50,4 @@ Contributions are welcome! If you have suggestions or improvements, please creat
 
 ## Contact
 
-Feel free to reach out if you have any questions or feedback. You can contact me via [LinkedIn](https://www.linkedin.com/in/rishabhsharma33).
+Feel free to reach out if you have any questions or feedback. You can contact me via [LinkedIn](https://www.linkedin.com/in/rishabh-sharma33/).

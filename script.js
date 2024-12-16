@@ -54,12 +54,12 @@ function teamAnimation(){
     el.addEventListener("mouseleave", function(dets){
         gsap.to(this.querySelector(".picture"), {opacity: 0, ease: Power4, duration: 0.5})
     })
-    el.addEventListener("mousemove", function(dets){
-        gsap.to(this.querySelector(".bluelayer"), {height: "100%", ease: Power4, duration:.5})
-    })
-    el.addEventListener("mouseleave", function(dets){
-        gsap.to(this.querySelector(".bluelayer"), {height: "0%", ease: Power4, duration:.5})
-    })
+    // el.addEventListener("mousemove", function(dets){
+    //     gsap.to(this.querySelector(".bluelayer"), {height: "100%", ease: Power4, duration:.5})
+    // })
+    // el.addEventListener("mouseleave", function(dets){
+    //     gsap.to(this.querySelector(".bluelayer"), {height: "0%", ease: Power4, duration:.5})
+    // })
 })
 }
 
